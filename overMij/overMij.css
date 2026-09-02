@@ -1,6 +1,7 @@
 body {
-    color: darkblue;
-    font-size: 4.5rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular',Geneva, Verdana, sans-serif;
-    font-variant: small-caps;
+    color: black;
+    background-color: rgb(255, 123, 0);
+    font-size: 1.0rem;
+    font-family: Arial, sans-serif;
+    font-variant: normal;
 }
