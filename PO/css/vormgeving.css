@@ -1,17 +1,60 @@
-html, body {
-    padding: 0;
+body {
+    background: #dfd9d9;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
     margin: 0;
 }
 
-body {
-    background: #5d524c;
-    color: #c8c3bf;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    size: 14px;
-    padding-left: 10%;
+/* Navigatie Menu */
+
+.Navigatie-header
+{
+    background-color: white;
 }
 
-#vogel {
-    width: 225px;
-    height: auto;
+.header-inhoud {
+    margin-left: 30px;
+}
+
+.Navigatie {
+    position: sticky;
+    top: 0;
+}
+
+.Navigatie ul{
+    font-size: 1.5rem;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    list-style: none;
+    display: flex;
+    padding: 20px;
+    width: 100%;
+    gap: 20px;
+    margin: 0;
+}
+
+.Navigatie li {
+    color: black;
+}
+
+.Navigatie a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.Navigatie a:hover {
+    background-color: #dfd9d9;
+    border-radius: 14px;
+}
+
+}
+
+/* Navigatie lijst eind */
+
+fieldset {
+    margin: 20px;
 }
