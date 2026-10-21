@@ -8,14 +8,35 @@ body {
 
 /* Navigatie Menu */
 
+
+    /* Navigatie header */
+
 .Navigatie-header
 {
-    background-color: white;
+    background-color: rgb(2, 0, 117);
 }
 
 .header-inhoud {
     margin-left: 30px;
+    display: flex;
+    color: rgb(197, 181, 181);
+    height: 70px;
 }
+
+.header-inhoud h1 {
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.header-inhoud img {
+    width: 80px;
+    height: 80px;
+    color: white;
+}
+
+  /* Navigatie header eind */
+
+
 
 .Navigatie {
     position: sticky;
@@ -51,10 +72,52 @@ body {
     border-radius: 14px;
 }
 
-}
-
 /* Navigatie lijst eind */
 
-fieldset {
-    margin: 20px;
+/* Boek pagina */
+
+.Reis-Blokje-Bovenstukje {
+    list-style: none;
+
+    display: flex;
+    gap: 10px;
+    /* margin: 0px 500px; */
+    margin-bottom: 10px;
+    justify-content: flex-start;
+
+    width: 250px;
+    background-color: red;
+}
+
+.Reis-Blokje {
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    background-color: rgb(2, 0, 117);
+    border-radius: 30px;
+    height: 20%;
+    width: 20%;
+    border: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+    z-index: 100;
+    position: absolute;
+}
+
+.Reis-Blokje input {
+    width: 250px;
+    height: 50px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+
+#Home-Grootplaatje {
+    width: 100%;
+    height: 360px;
+    z-index: 1;
 }
