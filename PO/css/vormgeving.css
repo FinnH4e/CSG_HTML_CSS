@@ -74,6 +74,7 @@ body {
 
 /* Navigatie lijst eind */
 
+
 /* Boek pagina */
 
 .Reis-Blokje-Bovenstukje {
@@ -122,17 +123,80 @@ body {
     z-index: 1;
 }
 
-/* Einde pagina 1 */
+/* Einde pagina Boeken */
 
-/* Start pagina informatie */
 
-#Informatie-Image {
-    width: 1000px;
-    height: 600px;
+/* Start Pagina Mijn Reizen */
+
+/* Eind Pagina Mijn Reizen */
+
+
+/* Start Pagina Check-in */
+.Checkin-Container {
+    background-color: red;
+    width: 100px;
+    height: 500px;
 }
 
-mat-card {
-    background-color: red;
+#Teston {
+    width: 1250px;
+    height: 500px;
+    background-color: #ffffffb3;
+    border-radius: 30px;
+
+    margin: 110px auto;
+    padding: 20px;
+}
+
+#Teston-text {
+    margin-left: 30px;
+}
+
+#Teston-text img {
+    position: relative;
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    top: 3px;
+}
+
+#Incheck-Content-Box {
+    background-color: rgb(0, 153, 255);
+    width: 1150px;
+    height: 375px;
+    margin: 20px auto;
     justify-content: center;
     align-items: center;
+    border-radius: 20px;
 }
+
+#Incheck-Content-Box button {
+   background: none; 
+   padding: 20px;
+   margin-left: 30px;
+   margin-top: 10px;
+
+   border: none;
+   font-size: 20px;
+}
+
+#Incheck-Content-Box button:hover {
+   text-decoration: underline;
+   cursor: pointer;
+}
+
+#Incheck-Content-Box input {
+   padding: 15px;
+   width: 450px;
+   background-color: white;
+   border-color: #666;
+   border-radius: 10px;
+   display: block;
+   margin-block: 20px;
+
+}
+
+/* Eind Pagina Check-in */
+
+
+
