@@ -2,6 +2,8 @@ ALGEMEEN:
 
 Dropdown menu met Details en Summary zijn van ChatGPT
 
+Website icon linksboven aangepast met plaatje en dan via cloudconvert omzetten naar .ico daarna file renamen naar: favicon.ico en replacen in deze codespace.
+
 
 
 
