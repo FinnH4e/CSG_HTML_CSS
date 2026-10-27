@@ -1,1 +1,14 @@
+ALGEMEEN: 
+
+Dropdown menu met Details en Summary zijn van ChatGPT
+
+
+
+
+
 Icoontje op pagina Check-in https://www.magnific.com/icon/user_15194213#fromView=search&page=1&position=5&uuid=499376d8-31c0-4b29-b3a9-24c97f5cc105
+
+
+Overlay met opacity gevonden op hulp pagina van: https://bookish-space-halibut-gx75qw6jvr95cv65x-8080.app.github.dev/voorbeeldenVanVNR/overlay/overlay.html
+Grid op pagina hulp van: https://learncssgrid.com/ grid-template-columns: 90px 50px 120px (stond tussen de Links lijst)
+Column op pagina hulp van: https://css-tricks.com/css-multi-column-layout-wrapping-features/
