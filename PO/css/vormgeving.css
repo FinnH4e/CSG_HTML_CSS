@@ -347,6 +347,12 @@ body {
     height: 400px;
     width: 100%;
 }
+
+.footer-container
+{
+    padding: 0px;
+    margin: 0px;
+}
 /* Eind Footer */
 
 #Test {
