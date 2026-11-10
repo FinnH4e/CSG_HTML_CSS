@@ -419,10 +419,33 @@ body {
 
 .footer-container-content-divs {
     padding-top: 50px;
-    border-bottom: 1px solid red;
-    background-color: purple;
+    border: 1px solid red;
     width: 400px;
     height: 350px;
+}
+
+.footer-container-content-divs li {
+    list-style: none;
+}
+
+.footer-container-content-divs a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-container-content-divs a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.li-titel {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#copyright-Footer {
+    margin: 60px 15px;
+    color: white;
 }
 /* Eind Footer */
 
