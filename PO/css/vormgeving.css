@@ -76,6 +76,11 @@ body {
 
 /* Boek pagina */
 
+.Boeken-Container-Container {
+    /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
+    height: 1000px;
+}
+
 #Boeken-Container {
     margin-top: 0px;
     height: 650px;
@@ -165,7 +170,7 @@ body {
     font-size: 30px;
 
     border-radius: 20px;
-    margin-top: 50px;
+    margin: auto;
 }
 
 /* Einde pagina Boeken */
@@ -258,6 +263,11 @@ body {
 
 
 /* Begin Pagina Vluchtstatus */
+.VluchtStatus-Container-Container {
+    /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
+    height: 1000px;
+}
+
 #Tabel {
     color: rgb(255, 166, 0);
     background-color: rgb(80, 80, 80);
@@ -268,6 +278,11 @@ body {
 
 
 /* Start Pagina Informatie */
+.Informatie-Container-Container {
+    /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
+    height: 1000px;
+}
+
 #Image img {
     width: 500px;
     height: 300px;
@@ -374,7 +389,7 @@ body {
 /* Start Footer */
 .footer-container { 
     background-color: black;
-    height: 400px;
+    height: 500px;
     width: 100%;
 }
 
