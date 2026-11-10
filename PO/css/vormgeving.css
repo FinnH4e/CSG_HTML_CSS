@@ -78,7 +78,7 @@ body {
 
 .Boeken-Container-Container {
     /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
-    height: 1000px;
+    height: 1300px;
 }
 
 #Boeken-Container {
@@ -115,7 +115,7 @@ body {
     align-self: flex-start;
 
     padding: 0;
-    margin: 0px -12px;
+    margin: 0px -30px;
 
     background-color: rgb(1, 0, 80);
     border-radius: 20px 20px 0 0;
@@ -156,6 +156,8 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
+
+    padding: 5px 30px;
 
 }
 
@@ -265,7 +267,7 @@ body {
 /* Begin Pagina Vluchtstatus */
 .VluchtStatus-Container-Container {
     /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
-    height: 1000px;
+    height: 1300px;
 }
 
 #Tabel {
@@ -280,7 +282,7 @@ body {
 /* Start Pagina Informatie */
 .Informatie-Container-Container {
     /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
-    height: 1000px;
+    height: 3000px;
 }
 
 #Image img {
@@ -393,10 +395,34 @@ body {
     width: 100%;
 }
 
-.footer-container
+.footer-container-content
 {
     padding: 0px;
     margin: 0px;
+    color: white;
+
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+.footer-container-content p
+{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+.footer-container-content-divs {
+    padding-top: 50px;
+    border-bottom: 1px solid red;
+    background-color: purple;
+    width: 400px;
+    height: 350px;
 }
 /* Eind Footer */
 
