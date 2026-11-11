@@ -115,7 +115,7 @@ body {
     align-self: flex-start;
 
     padding: 0;
-    margin: 0px -30px;
+    margin: 0px -78px;
 
     background-color: rgb(1, 0, 80);
     border-radius: 20px 20px 0 0;
@@ -172,7 +172,7 @@ body {
     font-size: 30px;
 
     border-radius: 20px;
-    margin: auto;
+    margin: 55px 0px;
 }
 
 /* Einde pagina Boeken */
@@ -391,7 +391,7 @@ body {
 /* Start Footer */
 .footer-container { 
     background-color: black;
-    height: 500px;
+    height: 350px;
     width: 100%;
 }
 
@@ -421,7 +421,7 @@ body {
     padding-top: 50px;
     border: 1px solid red;
     width: 400px;
-    height: 350px;
+    height: 200px;
 }
 
 .footer-container-content-divs li {
@@ -444,8 +444,14 @@ body {
 }
 
 #copyright-Footer {
-    margin: 60px 15px;
+    margin: 50px 15px;
     color: white;
+}
+
+.Store-Footer {
+    color: whitesmoke;
+    float: right;
+    margin: -175px 200px;
 }
 /* Eind Footer */
 
