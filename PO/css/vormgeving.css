@@ -181,7 +181,7 @@ body {
 /* Start Pagina Mijn Reizen */
 .Container-mijn-reizen {
 
-    background-image: url(/PO/images/Sunset\ purple\ plane.png);
+    background-image: url(../images/Sunset\ purple\ plane.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -199,6 +199,7 @@ body {
 .Container-mijn-reizen h1 {
 
     padding-left: 30px;
+    margin-top: 0px;
 }
 
 #Mijn-Reizen {
@@ -209,10 +210,11 @@ body {
     justify-content: center;
     align-items: center;
 
-    height: 800px;
-    width: 650px;
+    height: 380px;
+    width: 350px;
     margin: 0px 20px;
     padding: 20px;
+    padding-top: 10px;
 }
 /* Eind Pagina Mijn Reizen */
 
@@ -352,7 +354,7 @@ body {
 
 .Hulp-Container {
 
-    background-image: url(/PO/images/Aviora\ Jet\ on\ gate.png);
+    background-image: url(../images/Aviora\ Jet\ on\ gate.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: blue;
