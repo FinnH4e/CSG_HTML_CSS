@@ -41,6 +41,7 @@ body {
 .Navigatie {
     position: sticky;
     top: 0;
+    z-index: 101; /* Was nodig, omdat anders ging de nav balk op de check in pagina door de Check in heen glitchen. */
 }
 
 .Navigatie ul{
@@ -314,11 +315,16 @@ body {
 .VluchtStatus-Container-Container {
     /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
     height: 1300px;
+
+.VluchtStatus-Tabel-Header {
+    justify-content: center;
+    display: flex;
+}
 }
 
 #Tabel {
     color: rgb(255, 166, 0);
-    background-color: rgb(80, 80, 80);
+    background-color: rgb(54, 54, 54);
     border: none;
     margin: 0px auto;
 }
@@ -340,7 +346,7 @@ body {
     height: 250px;
     float: right;
     margin-top: -40px;
-    margin-right: 100px;
+    margin-right: 75px;
 
     border-radius: 15px;
     border: 2px solid rgb(0, 0, 0);
@@ -444,7 +450,7 @@ body {
     height: 350px;
     width: 100%;
 
-    padding-bottom: 20px;
+    padding-bottom: 21px;
 }
 
 .footer-container-content
