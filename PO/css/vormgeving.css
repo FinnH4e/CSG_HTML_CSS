@@ -219,7 +219,12 @@ body {
 
 /* Start Pagina Check-in */
 
-#Online-Inchecken-Container {
+.Online-Incheck-Container-Container {
+    /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
+    height: 800px;
+}
+
+.Online-Inchecken-Container {
     width: 1250px;
     height: 500px;
     background-color: #ffffffb3;
@@ -321,13 +326,22 @@ body {
 /* Start Pagina Informatie */
 .Informatie-Container-Container {
     /* Heb ik gemaakt zodat de footer iets lager komt en het mooier er uit ziet. */
-    height: 3000px;
+    height: 1300px;
+}
+
+.Informatie-Container {
+    padding-left: 30px;
 }
 
 #Image img {
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
     float: right;
+    margin-top: -40px;
+    margin-right: 100px;
+
+    border-radius: 15px;
+    border: 2px solid rgb(0, 0, 0);
 }
 
 /* Eind Pagina Informatie */
@@ -377,8 +391,7 @@ body {
     height: 200px;
     
     padding: 0px 20px;
-    /* Zie Colofon */
-    box-sizing: border-box;
+    box-sizing: border-box;  /* Zie Colofon */
 
     background-color: white;
     color: black;
@@ -386,6 +399,10 @@ body {
     border-radius: 20px;
 
     font-size: 16px;
+}
+
+.Hulp-Container-Content-Buttons button:hover {
+    cursor: pointer;
 }
 
 .Hulp-Container-Content-OnderButtons {
@@ -412,6 +429,10 @@ body {
 
     font-size: 16px;
 }
+
+.Hulp-Container-Content-OnderButtons button:hover {
+    cursor: pointer;
+}
 /* Eind Hulp Pagina */
 
 
@@ -420,6 +441,8 @@ body {
     background-color: black;
     height: 350px;
     width: 100%;
+
+    padding-bottom: 20px;
 }
 
 .footer-container-content
