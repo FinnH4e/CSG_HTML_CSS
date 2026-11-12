@@ -1,21 +1,58 @@
 ALGEMEEN: 
 
-Dropdown menu met Details en Summary zijn van ChatGPT
+Website icon linksboven aangepast met plaatje en dan via cloudconvert omzetten naar .ico daarna file renamen naar: favicon.ico en replacen in deze codespace. (dit wist ik zelf al)
 
-Website icon linksboven aangepast met plaatje en dan via cloudconvert omzetten naar .ico daarna file renamen naar: favicon.ico en replacen in deze codespace.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOOTER:
+
+Plaatjes van de Store logo's van Transavia:
+
+https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/306ba91c-c7cf-4373-ac62-79d6d4768700/google-play-badge.svg?w=undefined&h=undefined&fm=jpg&auto=format
+https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/a11f2698-a578-4cdf-ba41-15b52494bb86/app-store%201.svg?w=undefined&h=undefined&fm=jpg&auto=format
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BOEKEN PAGINA:
+
+Achtergrond plaatje gegenerate met AI.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MIJN REIZEN PAGINA:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+CHECK IN PAGINA:
 
-
-
-Icoontje op pagina Check-in https://www.magnific.com/icon/user_15194213#fromView=search&page=1&position=5&uuid=499376d8-31c0-4b29-b3a9-24c97f5cc105
+Profiel icoontje op pagina Check-in https://www.magnific.com/icon/user_15194213#fromView=search&page=1&position=5&uuid=499376d8-31c0-4b29-b3a9-24c97f5cc105
 
 
 Overlay met opacity gevonden op hulp pagina van: https://bookish-space-halibut-gx75qw6jvr95cv65x-8080.app.github.dev/voorbeeldenVanVNR/overlay/overlay.html
 Grid op pagina hulp van: https://learncssgrid.com/ grid-template-columns: 90px 50px 120px (stond tussen de Links lijst)
 Column op pagina hulp van: https://css-tricks.com/css-multi-column-layout-wrapping-features/
 
-Plaatjes van de Store logo's van Transavia:
 
-https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/306ba91c-c7cf-4373-ac62-79d6d4768700/google-play-badge.svg?w=undefined&h=undefined&fm=jpg&auto=format
-https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/a11f2698-a578-4cdf-ba41-15b52494bb86/app-store%201.svg?w=undefined&h=undefined&fm=jpg&auto=format
+vinkje emoji ✔ van pagina Check in van: https://emojidb.org/vinkje-emojis?utm_source=user_search
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+VLUCHT STATUS PAGINA:
+
+Tabel, geleerd van CodeAcedemy
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+INFORMATIE PAGINA:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+HULP PAGINA:
+
+Achtergrond plaatje van Hulp pagina, plaatje van Flightsim gestuurd en AI gevraagd om hem te genereren met AVIORA logo.
+
+Grid: "grid-template-columns: repeat(3, 1fr);" Van links die bij de opdracht waren gegeven "https://learncssgrid.com/" stond tussen: "https://bookish-space-halibut-gx75qw6jvr95cv65x-8080.app.github.dev/bronnen/index.html"
+
+BorderBox: "Box-sizing: Border box;" van ChatGPT het doet (Met border-box worden padding en border binnen de opgegeven breedte gehouden.)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
