@@ -81,3 +81,6 @@ https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/a11f2698-a5
 AFRONDING:
 
 Spellingcheck, typfoutcheck
+Login stukje en zoekglas icoontje toegevoegd in het navigatie-menu.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
