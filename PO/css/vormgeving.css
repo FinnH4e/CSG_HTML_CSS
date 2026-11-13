@@ -17,21 +17,71 @@ body {
 }
 
 .header-inhoud {
-    margin-left: 30px;
     display: flex;
     color: rgb(197, 181, 181);
     height: 70px;
+
+    justify-content: space-between;
 }
 
 .header-inhoud h1 {
     font-size: 20px;
     padding-top: 15px;
+    
+    margin-top: -70px;
+    margin-left: 85px;
 }
 
 .header-inhoud img {
     width: 80px;
     height: 80px;
     color: white;
+}
+
+#header-inhoud-linkerdeel {
+    margin-left: 30px;
+    color: rgb(197, 181, 181);
+}
+
+#header-inhoud-rechterdeel {
+    padding-right: 30px;
+    padding-top: 15px;
+}
+
+#Login-Button {
+    border-radius: 10px;
+    height: 30px;
+    width: 85px;
+    font-size: 15px;
+
+    background-color: rgba(0, 46, 134, 0.7);
+    color: white;
+
+    border: 1px solid whitesmoke;
+
+    /* Nog leuk lettertype misschien */
+}
+
+#Login-Button:hover {
+    cursor: pointer;
+}
+
+#Search-Button {
+    background-color: rgb(2, 0, 117);
+    color: whitesmoke;
+    
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+
+    font-size: 20px;
+}
+
+#Search-Button:hover {
+    cursor: pointer;
+
+    background-color: rgb(22, 20, 128);
 }
 
   /* Navigatie header eind */
@@ -112,7 +162,8 @@ body {
     gap: 0px;
 
     width:fit-content;
-    /* Align-self met gpt */
+
+    /* Align-self met chatGPT is eigenlijk dat die zichzelf aligned in plaats van de items ergens in en dan flex (naast elkaar) start (start/begin) */
     align-self: flex-start;
 
     padding: 0;

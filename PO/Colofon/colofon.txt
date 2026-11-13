@@ -1,25 +1,32 @@
 ALGEMEEN: 
 
-Website icon linksboven aangepast met plaatje en dan via cloudconvert omzetten naar .ico daarna file renamen naar: favicon.ico en replacen in deze codespace. (dit wist ik zelf al)
+Website icon linksboven aangepast met plaatje en dan via CloudConvert omzetten naar .ico daarna file renamen naar: favicon.ico en vervangen in deze codespace. (dit wist ik zelf al).
+
+Tekst: Zelf getypt overal.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HEADER/NAVIGATIE PAGINA:
 
-FOOTER:
+Position Sticky: Van zelf proberen alle positions bij langs te gaan tot ik de goede had.
 
-Plaatjes van de Store logo's van Transavia:
+Logo linksboven van: Copilot generatie.
 
-https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/306ba91c-c7cf-4373-ac62-79d6d4768700/google-play-badge.svg?w=undefined&h=undefined&fm=jpg&auto=format
-https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/a11f2698-a578-4cdf-ba41-15b52494bb86/app-store%201.svg?w=undefined&h=undefined&fm=jpg&auto=format
+Zoek icoontje van: https://emojidb.org/search-icon-emojis?utm_source=user_search
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 BOEKEN PAGINA:
 
-Achtergrond plaatje gegenerate met AI.
+Achtergrond Banner plaatje gegenereerd met AI.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MIJN REIZEN PAGINA:
+
+Ticket plaatje gegenereerd met AI.
+
+De <ul> (Unordered list (Geen cijfers)) geleerd met HTML & CSS van CodeAcedemy bij het html deel.
+En vervolgens die <ul> in een <div> gezet, een soort blokje is dat waar je tekst en afbeeldingen in kan doen (Content).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,6 +53,10 @@ Tabel, geleerd van CodeAcedemy
 
 INFORMATIE PAGINA:
 
+Tekst: Zelf getypt en bedacht en daarnaast de links toegevoegd (Random telefoonnummer + Redelijke officiële mail) en een verwijzing naar de Hulp pagina, die hetzelfde telefoonnummer en mail gebruikt.
+
+Plaatje Rechts voor de mooi: Is een eigen foto van mijn telefoon, toen ik ging vliegen van Weeze Airport.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 HULP PAGINA:
@@ -53,6 +64,20 @@ HULP PAGINA:
 Achtergrond plaatje van Hulp pagina, plaatje van Flightsim gestuurd en AI gevraagd om hem te genereren met AVIORA logo.
 
 Grid: "grid-template-columns: repeat(3, 1fr);" Van links die bij de opdracht waren gegeven "https://learncssgrid.com/" stond tussen: "https://bookish-space-halibut-gx75qw6jvr95cv65x-8080.app.github.dev/bronnen/index.html"
+repeat(3, 1fr); doet met 3 aantal naast elkaar, soort van display: flex; maximaal 3 items naast elkaar horizontaal, en 1fr zorgt ervoor dat de ruimte goed verdeeld word en gelijk verdeeld wordt.
 
-BorderBox: "Box-sizing: Border box;" van ChatGPT het doet (Met border-box worden padding en border binnen de opgegeven breedte gehouden.)
+Border-Box: "box-sizing: Border box;" van ChatGPT het doet (Met border-box worden padding en border binnen de opgegeven breedte gehouden.)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOOTER:
+
+Plaatjes van de Store logo's van Transavia:
+
+https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/306ba91c-c7cf-4373-ac62-79d6d4768700/google-play-badge.svg?w=undefined&h=undefined&fm=jpg&auto=format
+https://webassets.transavia.com/78ae936f-d39d-01b0-c3ef-dc738304142f/a11f2698-a578-4cdf-ba41-15b52494bb86/app-store%201.svg?w=undefined&h=undefined&fm=jpg&auto=format
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AFRONDING:
+
+Spellingcheck, typfoutcheck
