@@ -19,6 +19,8 @@ BOEKEN PAGINA:
 
 Achtergrond Banner plaatje gegenereerd met AI.
 
+Input velden <input> </input> van: "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input"
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MIJN REIZEN PAGINA:
