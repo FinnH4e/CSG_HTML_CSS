@@ -1,3 +1,9 @@
+WEBSITE MAKER:
+
+Gemaakt door: Finn Huizing - H4e
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ALGEMEEN: 
 
 Website icon linksboven aangepast met plaatje en dan via CloudConvert omzetten naar .ico daarna file renamen naar: favicon.ico en vervangen in deze codespace. (dit wist ik zelf al).
